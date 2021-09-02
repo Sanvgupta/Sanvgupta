@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @sanvgupta. I work as a Solution Advisor. My expertise in machine learning, deep learning, natural language processing, data mining, image processing. I am also experienced in python along with API's deployment using django, flask and FastAPI.
